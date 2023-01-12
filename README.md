@@ -11,15 +11,24 @@
 * #### html, css를 이용한 다양한 스코어보드 제작 및 스코어보드 컨트롤 페이지 제작
 * #### Vanilla JS를 통한 스코어보드와 컨트롤 페이지 연동 테스팅
   * 축구 스코어보드 & 컨트롤
-![html 스코어보드 1](https://user-images.githubusercontent.com/90994001/212015653-ae1787cf-98be-4fb7-b798-e20cca86539f.png)
+![html 스코어보드 1](https://user-images.githubusercontent.com/90994001/212021341-70ca7eed-1794-4cc8-90ca-a5721eb82983.png)
+![컨트롤 1](https://user-images.githubusercontent.com/90994001/212021367-b39ebea6-6485-4cff-a04a-cf259e8e30c9.png)
   * 야구 스코어보드 & 컨트롤
-![html 스코어보드 2](https://user-images.githubusercontent.com/90994001/212016716-4a6b74f1-a8b7-48dd-9204-070788475ae4.png)
+![html 스코어보드 2](https://user-images.githubusercontent.com/90994001/212021345-c334cd48-c15d-4000-9157-e1eea89916f0.png)
+![컨트롤 2](https://user-images.githubusercontent.com/90994001/212021370-d07256bc-403c-4200-a006-4fdcc20a620e.png)
   * 테니스 스코어보드 & 컨트롤
-![html 스코어보드 3](https://user-images.githubusercontent.com/90994001/212016721-225923e9-1634-4011-86e9-97fe34c67e08.png)
-![html 스코어보드 4](https://user-images.githubusercontent.com/90994001/212016726-78ba3d5d-8260-4f1e-a9d1-a5ad43f6fd72.png)
+![html 스코어보드 3](https://user-images.githubusercontent.com/90994001/212021347-e1d9ea06-ba36-431b-a7ab-e4159de63fe5.png)
+![html 스코어보드 4](https://user-images.githubusercontent.com/90994001/212021349-e3b8e975-4bb2-42ae-95af-8d4e59eaffb9.png)
+![테니스 컨트롤](https://user-images.githubusercontent.com/90994001/212021374-80bd8e32-1c96-49cf-b5c8-a9d22415628c.png)
   * 미식축구 스코어보드 & 컨트롤
-![html 스코어보드 5](https://user-images.githubusercontent.com/90994001/212016728-38337171-ebf2-4c64-9fc2-38389180fccb.png)
+![html 스코어보드 5](https://user-images.githubusercontent.com/90994001/212021353-bfd5e336-a365-43a3-a98b-c99d28d654ad.png)
+![미식축구 컨트롤](https://user-images.githubusercontent.com/90994001/212021364-5e397779-1289-4578-8d3d-beaf0da5a6d7.png)
   * 골프 스코어보드 & 컨트롤
-![html 스코어보드 6](https://user-images.githubusercontent.com/90994001/212016730-eb44e09f-de9c-46fd-8182-caa2b87a9107.png)
+![html 스코어보드 6](https://user-images.githubusercontent.com/90994001/212021358-ec7e78a9-2d40-4a71-8b23-a9a6d50f7ef7.png)
+![골프 컨트롤](https://user-images.githubusercontent.com/90994001/212021361-6ee224dc-1d48-45b8-8c04-4a14637c7a48.png)
+
+
+
+
 
   
