@@ -2,7 +2,6 @@
 ## 인턴 기간 : 2022.07.01~2022.12.31
 ## 개발팀 : 프론트엔드 개발팀
 
-### <1개월 차>
 * 회사 업무 계정 설정
   * Jira
   * Confluence
@@ -26,6 +25,22 @@
   * 골프 스코어보드 & 컨트롤
 ![html 스코어보드 6](https://user-images.githubusercontent.com/90994001/212021358-ec7e78a9-2d40-4a71-8b23-a9a6d50f7ef7.png)
 ![골프 컨트롤](https://user-images.githubusercontent.com/90994001/212021361-6ee224dc-1d48-45b8-8c04-4a14637c7a48.png)
+
+> 스코어보드 페이지와 컨트롤 페이지간의 데이터 연동에는 Broadcast Channel API를 사용
+
+#### node.js와 firebase를 이용한 경기 데이터 저장
+* Common 스코어보드 firebase realtime DB 연결
+> control 페이지에서 조작된 데이터가 realtime DB에 전달되면 메인 페이지에서 realtime DB에 접근하여 자신이 해당되는 key값의 value를 가져오는 방식
+
+![common_DB](https://user-images.githubusercontent.com/90994001/213390193-7b470428-770c-44b6-90b2-e20ced54b2f2.png)
+
+![image](https://user-images.githubusercontent.com/90994001/213390259-a63c5004-cdb9-4096-8a4f-4422b7bf83e5.png)
+
+![image](https://user-images.githubusercontent.com/90994001/213390298-57962211-3737-4bad-bc6b-db4b8a2ef9bb.png)
+
+
+
+
 
 
 
