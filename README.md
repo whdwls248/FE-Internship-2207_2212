@@ -29,13 +29,13 @@
 > 스코어보드 페이지와 컨트롤 페이지간의 데이터 연동에는 Broadcast Channel API를 사용
 
 #### node.js와 firebase를 이용한 경기 데이터 저장
-* Common 스코어보드 firebase realtime DB 연결
 > control 페이지에서 조작된 데이터가 realtime DB에 전달되면 메인 페이지에서 realtime DB에 접근하여 자신이 해당되는 key값의 value를 가져오는 방식
-
+ * Common 스코어보드 firebase realtime DB 연결
 ![common_DB](https://user-images.githubusercontent.com/90994001/213390193-7b470428-770c-44b6-90b2-e20ced54b2f2.png)
-
+ * Tennis 스코어보드 firebase realtime DB 연결
 ![image](https://user-images.githubusercontent.com/90994001/213390259-a63c5004-cdb9-4096-8a4f-4422b7bf83e5.png)
-
+> 팀별 이미지 파일의 경우 firebase storage에 업로드 후 생성된 링크 사용
+ * 팀별 이미지 업로드
 ![image](https://user-images.githubusercontent.com/90994001/213390298-57962211-3737-4bad-bc6b-db4b8a2ef9bb.png)
 
 
