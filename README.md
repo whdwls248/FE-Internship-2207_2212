@@ -27,7 +27,11 @@
 ![골프 컨트롤](https://user-images.githubusercontent.com/90994001/212021361-6ee224dc-1d48-45b8-8c04-4a14637c7a48.png)
 
 > 스코어보드 페이지와 컨트롤 페이지간의 데이터 연동에는 Broadcast Channel API를 사용
-
+### 스코어보드 통합 과정 realtime DB 구조 설계
+#### 스코어보드의 경기 데이터 DB 저장 및 연결 작업을 위한 realtime DB 구조 설계
+ * 현재 추가 완료된 스코어보드에 대한 DB 구조 설계
+ * 설계된 DB 구조들을 통합하기 위한 회의 및 공통 데이터 추출 및 구조 정리 작업
+ * 설계된 DB 구조들의 기초 코드화 작업 진행
 #### node.js와 firebase를 이용한 경기 데이터 저장
 > control 페이지에서 조작된 데이터가 realtime DB에 전달되면 메인 페이지에서 realtime DB에 접근하여 자신이 해당되는 key값의 value를 가져오는 방식
  * Common 스코어보드 firebase realtime DB 연결
