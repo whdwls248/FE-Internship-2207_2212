@@ -42,17 +42,26 @@
  * 팀별 이미지 업로드
 ![image](https://user-images.githubusercontent.com/90994001/213390298-57962211-3737-4bad-bc6b-db4b8a2ef9bb.png)
 
-### 기존 프로젝트와 스코어보드 통합과정에서 스코어보드를 React로 포팅 및 Typescript로 언어 변경
+#### 기존 프로젝트와 스코어보드 통합과정에서 스코어보드를 React로 포팅
  * React로 포팅된 기존 스코어보드 미리보기 화면
  ![리액트 포팅](https://user-images.githubusercontent.com/90994001/213615720-d3288c47-ad36-4689-9a57-fe6974e59f8a.png)
  * React로 포팅한 스코어보드와 realtime DB 연결
+ 
+### 스코어보드 페이지 제작 및 컨텐츠 추가
+> UI 제작에는 MUI를 사용하였고 프로젝트 언어는 Typescript 사용
 
-### 컨트롤 페이지 타이머 기능 추가
+#### 컨트롤 페이지 타이머 기능 추가
 ![image](https://user-images.githubusercontent.com/90994001/213616034-53cb3fa0-475a-4723-b779-874cb80344f2.png)
 
-### 컨트롤 페이지 스코어보드 보이기/숨기기 기능 추가
-![보이기 숨기기](https://user-images.githubusercontent.com/90994001/213616165-035a46ab-6169-4ee4-bbb8-33507cf0346f.png)
+#### 컨트롤 페이지 스코어보드 보이기/숨기기 기능 추가
+![보이기 숨기기](https://user-images.githubusercontent.com/90994001/213616266-ea770b3a-6406-4ed6-b415-f336beceba7b.png)
+![보이기 숨기기2](https://user-images.githubusercontent.com/90994001/213616269-8bd04314-c5ce-4ad5-b2bc-c5790cda0190.png)
 
+### 각 종목별 컨트롤 페이지 생성
+ * 미식축구
+ ![미식축구 컨트롤](https://user-images.githubusercontent.com/90994001/213616690-b42b58fd-a2db-41fe-8e15-c10565432ae9.png)
+ * 테니스
+![테니스 컨트롤](https://user-images.githubusercontent.com/90994001/213616692-17161a61-fa0d-43f9-86e2-28445d13f445.png)
 
 
 
