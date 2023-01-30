@@ -4,7 +4,9 @@
   
 ## 참여 프로젝트
 * ### [통합 로그인 페이지 제작](#cameriFi-login)
+> 실제 서비스 페이지 : https://login.camerafi.com/?callbackUrl=https%3A%2F%2Fstudio.camerafi.com%2Fko%2Fdashboard
 * ### [스튜디오 스코어보드 페이지 제작](#cameriFi-scoreboard)
+> 실제 서비스 페이지 :  https://studio.camerafi.com/ko/match-list
 
 ------
 
