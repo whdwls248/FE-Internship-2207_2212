@@ -3,8 +3,10 @@
 ## 개발팀 : 프론트엔드 개발팀
   
 ## 참여 프로젝트
-* ### [통합 로그인 페이지 제작](#login-part)
+* ### [통합 로그인 페이지 제작](#cameriFi-login)
 * ### [스튜디오 스코어보드 페이지 제작](#cameriFi-scoreboard)
+
+------
 
 * 회사 업무 계정 설정
   * Jira
@@ -77,13 +79,19 @@
  > 파이어베이스의 firestore의 각 경기 matchID 안에 해당 경기에 좋아요를 누른 사용자들의 uid를 저장
 ![좋아요 뷰](https://user-images.githubusercontent.com/90994001/213619099-b4c84c52-1833-48e2-bee4-194b5af250bf.png)
 
-# Login Part
-뭘봐!!!!!!!!!!!!!!!!!!!
+------
 
+# CameraFi Login
+### CameraFi Studio, CameraFi ShopiFi, CameraFi Live에서 각각 따로 운영되고 있던 로그인 페이지들을 하나의 통합 로그인 페이지로 변경
 
-
-
-
+### figma로 디자인된 통합 로그인 페이지 UI를 구현
+> UI작업엔 bootstrap과 mdl 사용
+  * 제작한 통합 로그인 페이지
+  * ![통합로그인](https://user-images.githubusercontent.com/90994001/215431504-85b22aea-61ce-46e5-a138-0369f5f975fe.png)
+  * 제작한 이메일 로그인 페이지
+  * ![이메일 로그인](https://user-images.githubusercontent.com/90994001/215431492-51919fac-bf40-4189-a584-ff1b7e7f78af.png)
+  * 제작한 회원가입 페이지
+![회원가입](https://user-images.githubusercontent.com/90994001/215431507-45ca3020-1162-4def-8976-8b446a3d1b1f.png)
 
 
 
