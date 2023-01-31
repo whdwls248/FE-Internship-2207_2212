@@ -87,13 +87,19 @@
 ### CameraFi Studio, CameraFi ShopiFi, CameraFi Live에서 각각 따로 운영되고 있던 로그인 페이지들을 하나의 통합 로그인 페이지로 변경
 
 ### figma로 디자인된 통합 로그인 페이지 UI를 구현
+### 사용 기기의 화면 비율에 따른 반응형 웹페이지 구현
 > UI작업엔 bootstrap과 mdl 사용
   * 제작한 통합 로그인 페이지
-  * ![통합로그인](https://user-images.githubusercontent.com/90994001/215431504-85b22aea-61ce-46e5-a138-0369f5f975fe.png)
+    * 데스크탑
+    ![통합로그인](https://user-images.githubusercontent.com/90994001/215431504-85b22aea-61ce-46e5-a138-0369f5f975fe.png)
+    * 모바일
+    ![통합로그인 모바일](https://user-images.githubusercontent.com/90994001/215675243-f0555efe-4934-4e49-b1f0-c31a3c84d73e.png)
   * 제작한 이메일 로그인 페이지
-  * ![이메일 로그인](https://user-images.githubusercontent.com/90994001/215431492-51919fac-bf40-4189-a584-ff1b7e7f78af.png)
+    * 데스크탑
+    ![이메일 로그인](https://user-images.githubusercontent.com/90994001/215431492-51919fac-bf40-4189-a584-ff1b7e7f78af.png)
   * 제작한 회원가입 페이지
-![회원가입](https://user-images.githubusercontent.com/90994001/215431507-45ca3020-1162-4def-8976-8b446a3d1b1f.png)
+    * 데스크탑!
+    [회원가입](https://user-images.githubusercontent.com/90994001/215431507-45ca3020-1162-4def-8976-8b446a3d1b1f.png)
 
 
 
