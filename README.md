@@ -142,11 +142,12 @@
 
 ------
 
-# CameraFi Login
-### CameraFi Studio, CameraFi ShopiFi, CameraFi Live에서 각각 따로 운영되고 있던 로그인 페이지들을 하나의 통합 로그인 페이지로 변경
+# CameriFi-login
+
+## CameraFi Studio, CameraFi ShopiFi, CameraFi Live에서 각각 따로 운영되고 있던 로그인 페이지들을 하나의 통합 로그인 페이지로 변경
 
 ### figma로 디자인된 통합 로그인 페이지 UI를 구현
-### 사용 기기의 화면 비율에 따른 반응형 웹페이지 구현
+#### 사용 기기의 화면 비율에 따른 반응형 웹페이지 구현
 > UI작업엔 bootstrap과 mdl 사용
   * 제작한 통합 로그인 페이지
   ![통합로그인](https://user-images.githubusercontent.com/90994001/215431504-85b22aea-61ce-46e5-a138-0369f5f975fe.png)
