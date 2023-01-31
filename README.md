@@ -159,14 +159,14 @@
   ![모바일 UI](https://user-images.githubusercontent.com/90994001/215679160-440ae5d8-d751-4600-8fcc-c55f5a119e52.png)
   
 ### 통합 로그인 및 회원가입 기능 구현 및 에러 메시지 구현
-> 로그인 및 회원가입엔 Firebase Auth의 API 활용 
+#### 로그인 및 회원가입엔 Firebase Auth의 API 활용 
 ![image](https://user-images.githubusercontent.com/90994001/215679853-8725b65a-415c-44cd-ac98-bdd76747b9fe.png)
 ![image](https://user-images.githubusercontent.com/90994001/215679910-59f9b3d7-c726-4c0e-a9ce-b52a9390fe6b.png)
 
 ### 회원가입 완료 페이지 제작
 > 이메일 회원가입 시 가입 완료 페이지에 가입한 이메일 주소와 token 값을 callbackURL로 전달
 * 소셜 서비스로 최초 로그인 시 소셜 회원가입 완료 페이지
-* ![image](https://user-images.githubusercontent.com/90994001/215708689-e34a5042-21ad-4b8b-b467-b6536650330a.png)
+![image](https://user-images.githubusercontent.com/90994001/215708689-e34a5042-21ad-4b8b-b467-b6536650330a.png)
 * 이메일 회원가입 완료 시 이메일 회원가입 완료 페이지
 ![image](https://user-images.githubusercontent.com/90994001/215708701-65fc90b9-f483-43a0-92b0-a0fb325af2a8.png)
 
