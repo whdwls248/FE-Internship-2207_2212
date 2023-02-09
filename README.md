@@ -54,6 +54,8 @@
 ![image](https://user-images.githubusercontent.com/90994001/213390298-57962211-3737-4bad-bc6b-db4b8a2ef9bb.png)
 
 #### 기존 프로젝트와 스코어보드 통합과정에서 스코어보드를 React로 포팅
+> React로 포팅하는 과정에서는 styled-components를 사용
+
  * React로 포팅된 기존 스코어보드 미리보기 화면
  ![리액트 포팅](https://user-images.githubusercontent.com/90994001/213615720-d3288c47-ad36-4689-9a57-fe6974e59f8a.png)
  * React로 포팅한 스코어보드와 realtime DB 연결
